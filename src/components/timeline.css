@@ -1,11 +1,11 @@
 .time-container{
     display: flex;
-    width: 100vw;
+    width: 40vw;
     height: 20vh;
 }
 
 .time-info-left{
-    width: 50vw;
+    width: 20vw;
     height: 20vh;
     border-right: solid 2px #f57236;
     display: flex;
@@ -14,14 +14,14 @@
 }
 
 .time-info-left p{
-    width: 20vw;
+    width: 15vw;
     text-align: left;
     margin-top: 2vh;
     margin-right: 1vw;
 }
 
 .time-info-right{
-    width: 50vw;
+    width: 20vw;
     height: 20vh;
     border-left: solid 2px #f57236;
     display: flex;
@@ -30,7 +30,7 @@
 }
 
 .time-info-right p{
-    width: 20vw;
+    width: 15vw;
     text-align: left;
     margin-top: 2vh;
     margin-left: 1vw;
@@ -54,6 +54,6 @@
 }
 
 .empty{
-    width: 50vw;
+    width: 20vw;
     height: 20vh;
 }

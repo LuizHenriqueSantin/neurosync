@@ -30,7 +30,7 @@
     cursor: pointer;
 }
 
-.about button:hover{
+.lnk-btn:hover{
     transform: scale(1.1);
     transition: 0.5s;
 }
@@ -75,4 +75,9 @@
 .card a:hover{
     transform: scale(1.2);
     transition: 0.5s;
+}
+
+.nmb{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
 }

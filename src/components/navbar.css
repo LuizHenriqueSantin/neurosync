@@ -3,14 +3,14 @@
     justify-content: space-around;
     background-color: black;
     color: #f57236;
-    height: 8vh;
+    height: 10vh;
     align-items: center;
     overflow-y: hidden;
 }
 
 .nav-img1{
-    height: 21vh;
-    margin-bottom: 0.5vh;
+    height: 26vh;
+    margin-bottom: 1vh;
 }
 
 .nav-list{

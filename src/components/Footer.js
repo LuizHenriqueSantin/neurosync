@@ -15,7 +15,7 @@ function Footer(){
             </a>
             <a target="_blank" rel="noreferrer" href="https://www.google.com/maps/place/Dermaslim+%7C+Estética+Avançada+em+Itapema/@-27.1269063,-48.6109464,17z/data=!3m1!4b1!4m6!3m5!1s0x94d8b1cf9075f0a1:0x562a77f7e347873b!8m2!3d-27.1269063!4d-48.6083715!16s%2Fg%2F11fxqgw_1x?hl=pt&entry=ttu">
                  <CiLocationOn size={30}/>
-                <p>Rua 230, 440 - Meia Praia, Itapema - SC</p>
+                <p>Clínica DermaSlim<br/>Rua 230, 440 - Meia Praia, Itapema - SC</p>
             </a>
         </div>
     )
