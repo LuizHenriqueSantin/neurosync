@@ -1,0 +1,34 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: #f57236;
+    height: 8vh;
+    align-items: center;
+    overflow-y: hidden;
+}
+
+.nav-img1{
+    height: 21vh;
+    margin-bottom: 0.5vh;
+}
+
+.nav-list{
+    display: flex;
+    list-style: none;
+    width: 30vw;
+    justify-content: space-around;
+    font-size: 2.5vh;
+    height: 8vh;
+    align-items: center;
+}
+
+.nav-item{
+    cursor: pointer;
+}
+
+.nav-item:hover{
+    color: white;
+    transition: 0.5s;
+    transform: scale(1.1);
+}

@@ -1,0 +1,26 @@
+.presentation{
+    background: linear-gradient(90deg, rgba(0,0,0,1) 49%, rgba(161,160,166,1) 55%, rgba(161,160,166,1) 57%);
+    height: 85vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.text-presentation{
+    margin-left: 18vw;
+    color: #f57236;;
+}
+
+.text-presentation h2{
+    margin-top: 3vh;
+    font-size: 4vh;
+}
+
+.text-presentation h1{
+    font-size: 8vh;
+}
+
+.presentation img{
+    height: 85vh;
+    width: 40vw;
+}

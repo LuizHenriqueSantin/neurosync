@@ -1,0 +1,29 @@
+.footer{
+    background-color: black;
+    color: #f57236;;
+    display: flex;
+    justify-content: space-around;
+    height: 8vh;
+    align-items: center;
+}
+
+.footer a{
+    color: #f57236;;
+    display: flex;
+    text-decoration: none;
+}
+
+.footer p{
+    margin-bottom: 0.5vh;
+    margin-top: 0.5vh;
+}
+
+.footer a p{
+    margin-left: 0.5vw;
+}
+
+.footer a:hover{
+    transform: scale(1.2);
+    transition: 0.5s;
+    color: white;
+}
