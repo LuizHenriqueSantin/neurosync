@@ -23,11 +23,12 @@
     align-items: center;
 }
 
-.nav-item{
-    cursor: pointer;
+.lnk{
+    text-decoration: none;
+    color: #f57236;
 }
 
-.nav-item:hover{
+.lnk:hover{
     color: white;
     transition: 0.5s;
     transform: scale(1.1);
