@@ -1,5 +1,5 @@
 .presentation{
-    background: linear-gradient(90deg, rgba(0,0,0,1) 49%, rgba(161,160,166,1) 55%, rgba(161,160,166,1) 57%);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 44%, rgba(255,255,255,1) 65%);
     height: 85vh;
     display: flex;
     align-items: center;
@@ -7,7 +7,7 @@
 }
 
 .text-presentation{
-    margin-left: 18vw;
+    margin-left: 15vw;
     color: #f57236;
 }
 
@@ -22,5 +22,4 @@
 
 .presentation img{
     height: 85vh;
-    width: 40vw;
 }

@@ -1,8 +1,8 @@
 import "./contact.css"
 import Footer from '../components/Footer';
 import Navbar from '../components/Navbar';
-import michele from "../assets/michele1.jpg"
-import ayron from "../assets/ayron1.jpg"
+import michele from "../assets/michele3.jpg"
+import ayron from "../assets/ayron3.jpg"
 import neurosync from "../assets/logopreta-removebg-preview.png"
 import { AiOutlineWhatsApp } from "react-icons/ai";
 import { FaInstagram } from "react-icons/fa";
