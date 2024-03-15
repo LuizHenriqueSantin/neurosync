@@ -9,7 +9,7 @@ function Footer(){
                 <p>Michele Santin - CRP: 12/17320</p>
                 <p>Ayron Pontes - CRP: 12/09525</p>
             </div>
-            <a href="https://www.instagram.com/neurosync_oficial/" target="_blank" rel="noreferrer">
+            <a href="https://www.instagram.com/neurosync_psicologia/" target="_blank" rel="noreferrer">
                 <FaInstagram size={30}/>
                 <p>@neurosync_oficial</p>
             </a>
