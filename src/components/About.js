@@ -8,7 +8,7 @@ function About(){
     return(
         <div className="about">
             <h1>Quem somos</h1>
-            <p>A Neurosync trabalha com psicologia aliada à tecnologia de ponta e neurociência para promover o treinamento cerebral através da Neuromodulação, com técnicas de Neurofeedback e estimulaçâo Transcraniana, criando protocolos para tratamento de sintomas patológicos e também promover a melhora do desempenho cognitivo para elevar a performance intelectual, o desempenho nos estudos, nos esportes e demais demandas que exijam foco, concentração e cognição.</p>
+            <p>A Neurosync trabalha com psicologia aliada à tecnologia de ponta e neurociência para promover o treinamento cerebral através da Neuromodulação, com técnicas de Neurofeedback e estimulaçâo Transcraniana, criando protocolos para tratamento de sintomas patológicos e também promover a melhora do desempenho cognitivo seja para elevar performance intelectual, desempenho nos estudos, nos esportes e demais demandas que exija foco, concentração e cognição.</p>
             <Link className="lnk-btn" to='/about#header' onClick={() => window.scrollTo(0, 0)}><button>Saiba mais</button></Link>
             <div className="card-container">
                 <div className="card">

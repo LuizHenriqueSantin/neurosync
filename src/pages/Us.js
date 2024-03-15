@@ -13,7 +13,7 @@ function Us(){
             <Navbar id="header"/>
             <div className="us-container">
                 <h1>Nossa história</h1>
-                <p className="us-p">Fundada em 2024, a Neurosync nasce de um sonho de trabalhar com a mente humana através da Psicologia e Neurociencia, aliada ao que há de melhor na tecnologia pra buscar um equilibrio de bem estar e performance no dia a dia, entregando aos clientes um acompanhamento personalizado a cada necessidade, seja ela social, profissional ou pessoal, afinal somos únicos.<br /> {`Atualmente trabalhamos com 2 técnicas, o Neurofeedback e a Estimulação Transcraniana (TDCS).`}</p>
+                <p className="us-p">A Neurosync nasce de um sonho de trabalhar com a mente humana através da Psicologia e Neurociencia, aliada ao que há de melhor na tecnologia pra buscar um equilibrio de bem estar e performance no dia a dia, entregando aos clientes um acompanhamento personalizado a cada necessidade, seja ela social, profissional ou pessoal, afinal somos únicos. {`{...}`}<br /> {`Atualmente trabalhamos com 2 técnicas, o Neurofeedback e a Estimulação Transcraniana (TDCS).`}</p>
                 <div className="time-display">
                     <div className="profile-container">
                         <img alt="ERROR" src={michele}/>
